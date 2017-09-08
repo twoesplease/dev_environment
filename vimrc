@@ -14,6 +14,7 @@ set cursorline  " highlight current line
 set showmatch " highlight matching [{()}]
 set incsearch " search as characters are entered
 set hlsearch " highlight matches
+set backspace=indent,eol,start
 
 "============
 " my own settings
